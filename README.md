@@ -1,6 +1,4 @@
-# FullStack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL & TypeScript.
-
-Credits: [Antonio Erdeljac](https://github.com/AntonioErdeljac)
+# Vibe Vault: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL & TypeScript.
 
 Features:
 
@@ -27,12 +25,6 @@ Features:
 ### Prerequisites
 
 **Node version 18.x.x**
-
-### Cloning the repository
-
-```shell
-git clone https://github.com/nayak-nirmalya/discord-clone.git
-```
 
 ### Install packages
 
